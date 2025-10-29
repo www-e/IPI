@@ -1,0 +1,9 @@
+
+hey i want to create a realstate landing page 
+1- ofcourse follow a really good folder strcuutre
+2- clean code
+3- zero redundncy
+4- as much ready packages and npx isntalles (for pacakges or even ui related components) to reduce code creation from scratch
+5- modern luxury feel 
+6- modern color palate ofcourse created in globals.css and called in the landing page components correctly to avoid hard coded colors in the codes
+7- i have added shadcn navigation bar and footer as well make sure they are called in teh correct places
